@@ -12,4 +12,4 @@ The code is for my AMCS211 Project. It use a five layer NN to classify digital n
 ## Comment 
 My first Pytorch code.. Not useful in most cases.. :)
 
-[logging.py](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/04-utils/tensorboard/logger.py) is from PyTorch Tutorial by yunjey.
+Using tensorboard requires [logging.py](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/04-utils/tensorboard/logger.py). It is from PyTorch Tutorial by yunjey.
